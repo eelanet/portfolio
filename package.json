@@ -9,7 +9,7 @@
   },
   "author": "",
   "license": "ISC",
-  "homepage": "https://eelanet.github.io/portfolio",
+  "homepage": "https://eelanet.github.io/portfolio/index.html",
   "dependencies": {
     "gh-pages": "^1.2.0",
     "node-sass": "^4.11.0"
